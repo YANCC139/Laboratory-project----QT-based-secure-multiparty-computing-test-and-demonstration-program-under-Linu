@@ -15,17 +15,28 @@
 
 GUI界面左边为算法的单元测试部分，右边部分的按钮包括算法详解（pdf文档），算法示例（多
 媒体视频播放），算法文献与来源（相关网页链接）。
+
 ①目前由于需要进行的单元测试比较多，算法测试部分可能还有一些路径问题，需要注意绝对路
 径和相对路径问题和权限问题；
+
 ②pdf文档打开还是通过调用linux系统自带office软件查看；
+
 ③多媒体视频根据自己的视频添加到/usr/src/FTGtest/media/路径下，并在cpp文件中进行路径
 修改。同时，linux下的视频播放需要下载相关解码器才能正常播放视频；
+
 ④qt调用的算法包括frontend_libOTe,Palisade,UC,MP-SPDZ,Swanky。相关github链接如下：
+
 https://github.com/osu-crypto/libOTe
+
 https://gitlab.com/palisade/palisade-development.git
+
 https://github.com/encryptogroup/UC
+
 https://github.com/data61/MP-SPDZ
+
 https://github.com/GaloisInc/swanky
+
+程序运行界面如下：
 ![Screenshot 2022-07-18 175326](https://user-images.githubusercontent.com/95836373/180630615-dea2b3e7-0049-4b8d-a7ea-03c655c8dc07.png)
 
 ----------------------------------------
