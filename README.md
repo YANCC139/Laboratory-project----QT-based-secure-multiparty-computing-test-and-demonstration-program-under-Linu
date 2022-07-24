@@ -37,7 +37,7 @@ https://github.com/data61/MP-SPDZ
 https://github.com/GaloisInc/swanky
 
 程序运行界面如下：
-![Screenshot 2022-07-18 175326](https://user-images.githubusercontent.com/95836373/180630615-dea2b3e7-0049-4b8d-a7ea-03c655c8dc07.png)
+![}NNHX7E~2TN} 0DM4WTN4G0](https://user-images.githubusercontent.com/95836373/180630802-6bc9f895-5eb4-45d9-b44a-17996a83d7a9.png)
 
 ----------------------------------------
 
